@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
 #WEBSİTE
 
+https://www.youtube.com/watch?v=upccWfK_0DI
+
 1- https://lottiefiles.com/search?category=animations&q=confetti&type=free
    
    Siteye girerek buradan Download eder "Assets" klasörünün içerisine atarak çalıştırabilirsin
