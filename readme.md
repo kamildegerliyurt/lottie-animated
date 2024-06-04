@@ -19,3 +19,9 @@ npm install @reduxjs/toolkit react-redux @react-navigation/native @react-navigat
 npm install lottie-react-native
 
 --------------------------------------------------------------------------------
+
+
+<img align="left" alt="Coding" width="200" src="https://github.com/kamildegerliyurt/CheckBoxTesting/assets/139812195/98b99359-2874-458c-927b-ad30ad760432">
+
+
+
