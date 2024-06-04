@@ -21,7 +21,7 @@ npm install lottie-react-native
 --------------------------------------------------------------------------------
 
 
-<img align="left" alt="Coding" width="200" src="https://github.com/kamildegerliyurt/CheckBoxTesting/assets/139812195/98b99359-2874-458c-927b-ad30ad760432">
+<img align="left" alt="Coding" width="200" src="https://github.com/kamildegerliyurt/CheckBoxTesting/assets/139812195/e0322eed-a2df-4d48-8231-be739e740aee">
 
 
 
